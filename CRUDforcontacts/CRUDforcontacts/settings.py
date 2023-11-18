@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '*#eg%-wisa9!b(cg6fp&q3^fdk)t3r#tl_(dm=g$9#-e_2o79h'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['crudforcontacts.azurewebsites.net']
 
 
 # Application definition
