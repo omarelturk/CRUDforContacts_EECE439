@@ -27,6 +27,8 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['crudforcontacts.azurewebsites.net']
 
+CSRF_TRUSTED_ORIGINS = ['crudforcontacts.azurewebsites.net']
+
 
 # Application definition
 
