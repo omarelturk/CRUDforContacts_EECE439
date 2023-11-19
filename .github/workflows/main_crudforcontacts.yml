@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'CRUDforContacts'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3FFC1B42879A46498B9C8D7B1F525414 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A516CB2B474D47BDA3E7FA2DE90789E2 }}
